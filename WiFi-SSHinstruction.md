@@ -2,9 +2,9 @@
 
 ##  WiFi
 
-network name: popgen
+network name: embopopgen2019
 
-password: popgenlab
+password: embopopgen2019
 
 ##  SSH
 For this course we will work on the High Performance Cluster of the [Istituto Nazionale di Fisica Nucleare](https://www.ba.infn.it/index.php/en/)
