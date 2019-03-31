@@ -1,13 +1,19 @@
 ### Paleo-Programing 
 
-
-| <img src="../img/ada.jpg" alt="drawing" width="200"/> | 
+| 1843:  [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html) calculating the Bernoulli numbers. |
 |:--:| 
-| [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html) calculating the Bernoulli numbers. |
+| <img src="../img/ada.jpg" alt="drawing" width="200"/> | 
 
 
 > In 1842, the Italian mathematician Luigi Federico Menabrea published a description of the engine based on a lecture by Babbage in French. In 1843, the description was translated into English and extensively annotated by Ada Lovelace, who had become interested in the engine eight years earlier. In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described as the first computer programmer.  *(from https://en.wikipedia.org/wiki/Analytical_Engine* )
 
+
+
+| 1949: [Dorothy Vaughan](https://en.wikipedia.org/wiki/Dorothy_Vaughan) became acting supervisor of the West Area Computers, the first African-American woman to supervise a group of staff at the center. |
+|:--:| 
+| <img src="../img/doroth_vaughan_nasa.jpg" alt="drawing" width="300"/> | 
+
+> During her 28-year career, Vaughan prepared for the introduction of machine computers in the early 1960s by teaching herself and her staff the programming language of FORTRAN; she later headed the programming section of the Analysis and Computation Division (ACD) at Langley. *(source https://en.wikipedia.org/wiki/Dorothy_Vaughan)
 
 ### Programing languages evolution 
 
