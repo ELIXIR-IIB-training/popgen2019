@@ -34,7 +34,7 @@
 | |https://en.wikipedia.org/wiki/Guido_van_Rossum | 
 
 
-Python2.x will be dismissed in 2020. Current relase is Python3.x. Read [more about current Python release](https://wiki.python.org/moin/Python2orPython3)
+Python2.x will be dismissed in 2020. Current relase is Python3.x. Read more about [current Python release](https://wiki.python.org/moin/Python2orPython3)
 
 
 | | |
@@ -51,7 +51,6 @@ Python2.x will be dismissed in 2020. Current relase is Python3.x. Read [more abo
 
 1. Connect to the server as described [here](../WiFi-SSHinstruction.md) 
 2. In your home make a folder that you will use for all the python. Use a meaningful name *be consistent and descriptive*  
-
 
 See suggestions for naming [here](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
 
