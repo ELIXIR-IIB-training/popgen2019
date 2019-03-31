@@ -1,5 +1,9 @@
 ### Paleo-Programing 
-https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html
+
+
+| <img src="../img/ada.jpg" alt="drawing" width="200"/>| Leran about [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) and [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html
+) |
+
 
 
 
