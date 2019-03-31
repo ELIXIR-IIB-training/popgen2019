@@ -58,7 +58,7 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1 |||
-day 2 ||(AlleleFrequencies)[day2/clark/AlleleFreqDyn.txt]|
+day 2 ||[AlleleFrequencies](day2/clark/AlleleFreqDyn.txt)|
 day 3 |||
 day 4 |||
 day 5 |||
