@@ -58,7 +58,7 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1 |||
-day 2 ||[AlleleFrequencies](day2/clark/AlleleFreqDyn.txt) [InfiniteSite](day2/clark/InfiniteSites.txt)[WrightFisherSimulations](day2/clark/WrightFisherSim.txt) [SampleData1](day2/clark/SampleData1.txt)  [SampleData2](day2/clark/SampleData2.txt) [SampleData3](day2/clark/SampleData3.txt) |
+day 2 ||[AlleleFrequencies](day2/clark/AlleleFreqDyn.txt) - [InfiniteSite](day2/clark/InfiniteSites.txt) - [WrightFisherSimulations](day2/clark/WrightFisherSim.txt) - [SampleData1](day2/clark/SampleData1.txt) - [SampleData2](day2/clark/SampleData2.txt) -  [SampleData3](day2/clark/SampleData3.txt) |
 day 3 |||
 day 4 |||
 day 5 |||
