@@ -20,7 +20,7 @@
 | 1950s: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) popularized the idea of machine-independent programming languages, which led to the development of COBOL, an early high-level programming language still in use today. |
 |:--:| 
 | <img src="../img/grace-hopper-3-600x403-1.jpg" alt="drawing" width="300"/> |
-|>While she was working on a Mark II Computer at Harvard University in 1947, her associates discovered a moth that was stuck in a relay; the moth impeded the operation of the relay. While neither Hopper nor her crew mentioned the phrase "debugging" in their logs, the case was held as an instance of literal "debugging." For many years, the term bug had been in use in engineering. **The remains of the moth can be found in the group's log book at the Smithsonian Institution's National Museum of American History in Washington, D.C.**  (from https://en.wikipedia.org/wiki/Grace_Hopper)*| 
+|*>While she was working on a Mark II Computer at Harvard University in 1947, her associates discovered a moth that was stuck in a relay; the moth impeded the operation of the relay. While neither Hopper nor her crew mentioned the phrase "debugging" in their logs, the case was held as an instance of literal "debugging." For many years, the term bug had been in use in engineering. **The remains of the moth can be found in the group's log book at the Smithsonian Institution's National Museum of American History in Washington, D.C.**  (from https://en.wikipedia.org/wiki/Grace_Hopper)*| 
 | <img src="../img/bug.jpg" alt="drawing" width="300"/> |
 
 
@@ -60,8 +60,18 @@ Python2.x will be dismissed in 2020. Current relase is Python3.x. Read more abou
 
 See suggestions for naming [here](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
 
-3. Download the toy-dataset and the code from here using wget 
+#### Software Carpentry lessons 
 
-#### From now we will follow the Software Carpentry lessons 
+We will use the [Software Carpentry lessons](https://software-carpentry.org/lessons/) to learn Python. 
 
+3. Download to your home directory on the server the toy-dataset and the code from the SC lesson repository [here](http://swcarpentry.github.io/python-novice-inflammation/setup/). Use `wget`. 
+
+```
+wget http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip
+
+wget http://swcarpentry.github.io/python-novice-inflammation/code/python-novice-inflammation-code.zip
+```
+After that you will see two new folders named  `data` and  `code` in your home directory. 
+
+We will now go through the SC Python lessons that can be found [here](http://swcarpentry.github.io/python-novice-inflammation/). 
 
