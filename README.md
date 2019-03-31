@@ -42,11 +42,11 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 ## Timetable
 
 #### Speakers schedule
-- Anders Albrechtsen
-- Chiara Batini
-- Andrew Clark 
-- Vincenza Colonna
-- Mathias Currat
+- Anders Albrechtsen - March 30th, April 5th  
+- Chiara Batini - March 30th, April 6th 
+- Andrew Clark - March 30th, April 2nd 
+- Vincenza Colonna - March 30th, April 6th 
+- Mathias Currat - 
 - Margherita Francescatto
 - Garret Hellenthal 
 - Andrea Manica 
