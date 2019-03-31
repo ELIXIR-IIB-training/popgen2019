@@ -35,6 +35,10 @@
 </table>
 
 
+| ![iib](img/logos/logo_iib.png) | ![excelerate](img/logos/Logo_excelerate_whitebackground.png) | ![igb](img/logos/IGB-logo.jpg) |
+|:--:|:--:|:--:|
+| ![iib](img/logos/logo_iib.png) | ![excelerate](img/logos/Logo_excelerate_whitebackground.png) | ![igb](img/logos/IGB-logo.jpg) |
+
 
 ## Connections
 WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
@@ -46,11 +50,11 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 - Chiara Batini - March 30th, April 6th 
 - Andrew Clark - March 30th, April 2nd 
 - Vincenza Colonna - March 30th, April 6th 
-- Mathias Currat - 
-- Margherita Francescatto
-- Garret Hellenthal 
-- Andrea Manica 
-- Daniel Robert Schrider
+- Mathias Currat - March 31st, April 4th 
+- Margherita Francescatto - Marco Chierici  - April 1st, April 6th 
+- Garret Hellenthal - April 1st, April 5th 
+- Andrea Manica - March 30th, April 6th 
+- Daniel Robert Schrider - March 31st, April 6th
 
 
 #### All raw data and software are available on the INFN machine
