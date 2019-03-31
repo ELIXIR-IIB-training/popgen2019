@@ -17,6 +17,12 @@
 | <img src="../img/doroth_vaughan_nasa.jpg" alt="drawing" width="300"/> | 
 |*> During her 28-year career, Vaughan prepared for the introduction of machine computers in the early 1960s by teaching herself and her staff the programming language of FORTRAN; she later headed the programming section of the Analysis and Computation Division (ACD) at Langley. (source https://en.wikipedia.org/wiki/Dorothy_Vaughan)* |
 
+| 1950s: [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) popularized the idea of machine-independent programming languages, which led to the development of COBOL, an early high-level programming language still in use today. |
+|:--:| 
+| <img src="../img/grace-hopper-3-600x403-1.jpg" alt="drawing" width="300"/> |
+|>While she was working on a Mark II Computer at Harvard University in 1947, her associates discovered a moth that was stuck in a relay; the moth impeded the operation of the relay. While neither Hopper nor her crew mentioned the phrase "debugging" in their logs, the case was held as an instance of literal "debugging." For many years, the term bug had been in use in engineering. **The remains of the moth can be found in the group's log book at the Smithsonian Institution's National Museum of American History in Washington, D.C.**  (from https://en.wikipedia.org/wiki/Grace_Hopper)*| 
+| <img src="../img/bug.jpg" alt="drawing" width="300"/> |
+
 
 ***
 ### Programing languages evolution 
