@@ -9,11 +9,17 @@
 
 
 
+| 1950s: IBM develops the [FORTRAN](https://en.wikipedia.org/wiki/Dorothy_Vaughan) for scientific and engineering applications, FORTRAN came to dominate this area of programming early on and has been in continuous use for over half a century in computationally intensive areas. |
+|:--:| 
+| <img src="../img/FortranCardPROJ039.agr.jpg" alt="drawing" width="300"/> | 
+
+
 | 1949: [Dorothy Vaughan](https://en.wikipedia.org/wiki/Dorothy_Vaughan) became acting supervisor of the West Area Computers, the first African-American woman to supervise a group of staff at the center. |
 |:--:| 
 | <img src="../img/doroth_vaughan_nasa.jpg" alt="drawing" width="300"/> | 
 
 > During her 28-year career, Vaughan prepared for the introduction of machine computers in the early 1960s by teaching herself and her staff the programming language of FORTRAN; she later headed the programming section of the Analysis and Computation Division (ACD) at Langley. *(source https://en.wikipedia.org/wiki/Dorothy_Vaughan)
+
 
 ### Programing languages evolution 
 
