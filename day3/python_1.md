@@ -3,7 +3,7 @@
 
 | <img src="../img/ada.jpg" alt="drawing" width="200"/> | 
 |:--:| 
-| [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html) |
+| [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html) calculating the Bernoulli numbers. |
 
 
 > In 1842, the Italian mathematician Luigi Federico Menabrea published a description of the engine based on a lecture by Babbage in French. In 1843, the description was translated into English and extensively annotated by Ada Lovelace, who had become interested in the engine eight years earlier. In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described as the first computer programmer.  *(from https://en.wikipedia.org/wiki/Analytical_Engine* )
