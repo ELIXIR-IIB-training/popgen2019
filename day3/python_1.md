@@ -25,21 +25,17 @@
 
 | <img src="../img/programingtree.jpg" alt="drawing" width="400"/> | The "phylogenetic" tree of languages | 
 |:--:|:--:|
-| *(source http://www.cs.sjsu.edu/faculty/pearce/modules/lectures/languages3/history/evolution.htm) |
-
-
-
+| *(source http://www.cs.sjsu.edu/faculty/pearce/modules/lectures/languages3/history/evolution.htm)* |
 
 
 ### A quick history of Python 
 
-https://en.wikipedia.org/wiki/Guido_van_Rossum
+|<img src="../img/pythonlogo.jpg" alt="drawing" width="300"/> | <img src="../img/DO6GvRhi.gif" alt="drawing" width="300"/>|
+|:--:|:--:|
+| |https://en.wikipedia.org/wiki/Guido_van_Rossum | 
 
 
-Python2.7 will be dismissed in 2020 
-Python3 
-
-https://wiki.python.org/moin/Python2orPython3
+Python2.x will be dismissed in 2020. Current relase is Python3.x. Read [more about current Python release](https://wiki.python.org/moin/Python2orPython3)
 
 
 | | |
