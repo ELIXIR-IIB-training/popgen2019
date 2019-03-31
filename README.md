@@ -35,10 +35,6 @@
 </table>
 
 
-| ![iib](img/logos/logo_iib.png) | ![excelerate](img/logos/Logo_excelerate_whitebackground.png) | ![igb](img/logos/IGB-logo.jpg) |
-|:--:|:--:|:--:|
-| ![iib](img/logos/logo_iib.png) | ![excelerate](img/logos/Logo_excelerate_whitebackground.png) | ![igb](img/logos/IGB-logo.jpg) |
-
 
 ## Connections
 WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
