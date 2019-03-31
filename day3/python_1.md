@@ -1,11 +1,11 @@
-### Paleo-Programing 
+### Paleo-Programing Facts 
 
 | 1843:  [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html) calculating the Bernoulli numbers. |
 |:--:| 
 | <img src="../img/ada.jpg" alt="drawing" width="200"/> | 
 
 
-> In 1842, the Italian mathematician Luigi Federico Menabrea published a description of the engine based on a lecture by Babbage in French. In 1843, the description was translated into English and extensively annotated by Ada Lovelace, who had become interested in the engine eight years earlier. In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described as the first computer programmer.  *(from https://en.wikipedia.org/wiki/Analytical_Engine* )
+> In 1842, the Italian mathematician Luigi Federico Menabrea published a description of the Analytical Engine, a proposed mechanical general-purpose computer, based on a lecture by Babbage in French. In 1843, the description was translated into English and extensively annotated by Ada Lovelace, who had become interested in the engine eight years earlier. In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described as the first computer programmer.  *(from https://en.wikipedia.org/wiki/Analytical_Engine* )
 
 
 
@@ -23,10 +23,10 @@
 
 ### Programing languages evolution 
 
-<img src="../img/programingtree.jpg" alt="drawing" width="200"/>
- 
- 
-http://www.cs.sjsu.edu/faculty/pearce/modules/lectures/languages3/history/evolution.htm
+| <img src="../img/programingtree.jpg" alt="drawing" width="400"/> | The "phylogenetic" tree of languages | 
+|:--:|:--:|
+| *(source http://www.cs.sjsu.edu/faculty/pearce/modules/lectures/languages3/history/evolution.htm) |
+
 
 
 
