@@ -1,10 +1,12 @@
 ### Paleo-Programing 
 
 
-| <img src="../img/ada.jpg" alt="drawing" width="200"/>| Leran about [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) and [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html
-) |
+| <img src="../img/ada.jpg" alt="drawing" width="200"/> | 
+|:--:| 
+| [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote [the first computer program](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html) |
 
 
+> In 1842, the Italian mathematician Luigi Federico Menabrea published a description of the engine based on a lecture by Babbage in French. In 1843, the description was translated into English and extensively annotated by Ada Lovelace, who had become interested in the engine eight years earlier. In recognition of her additions to Menabrea's paper, which included a way to calculate Bernoulli numbers using the machine (widely considered to be the first complete computer program), she has been described as the first computer programmer.  *(from https://en.wikipedia.org/wiki/Analytical_Engine* )
 
 
 ### Programing languages evolution 
@@ -28,7 +30,12 @@ Python3
 https://wiki.python.org/moin/Python2orPython3
 
 
-https://www.python.org/
+| | |
+|----|----|
+| Python tutorial | https://docs.python.org/3/tutorial/  |
+|Python for mathematics, science, and engineering | https://scipy.org/ |
+| Python official website | https://www.python.org/  |
+
 
 We will use Software Carpentry teaching material, here is the link to the lesson
 
