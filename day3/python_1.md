@@ -76,7 +76,7 @@ We will now go through the SC Python lessons that can be found [here](http://swc
 #### Links to modules used during lessons 
 | | |
 |----|----|
-|NumPy |http://www.numpy.org/ |
+|numpy |http://www.numpy.org/ |
 |time | https://docs.python.org/3.7/library/time.html | 
-
+|matplotlib | https://matplotlib.org/ | 
 
