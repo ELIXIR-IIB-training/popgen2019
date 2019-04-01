@@ -60,7 +60,8 @@ Days |Lessons  | Tutorials |
 day 1 | [Overview](day2/clark/EMBOClarkOverview.pdf)  ||
 day 2am | [BasicPopGenConcepts](day2/clark/EMBOpopgenForcesCLARK.pdf)  |[AlleleFrequencies](day2/clark/AlleleFreqDyn.txt) - [InfiniteSite](day2/clark/InfiniteSites.txt) - [WrightFisherSimulations](day2/clark/WrightFisherSim.txt) - [SampleData1](day2/clark/SampleData1.txt) - [SampleData2](day2/clark/SampleData2.txt) -  [SampleData3](day2/clark/SampleData3.txt) |
 day 2pm |[Coalescent](day2/clark/EMBO-Coalescent.pdf) |[simulatecoalescencetrees](day2/clark/simulatecoalescencetrees.txt) - [CoalescenceExercises](day2/clark/CoalescenceExercises2019.docx) |
-day 3 |||
+day 3am |[Gene Genealogy Methods For Demographic Inferences](day3/currat/MatCurrat_PopGen_19-Gene-GenealogyMethodsForDemographicInferences-slides.pdf)|[Coalescent simulations and ABC](day3/currat/EmboPopGen_MatCurrat_Morning_Practicals_19.pdf)|
+day 3pm |[Coalescent simulations in time and space](day3/currat/MatCurrat_PopGen_19-CoalescentSimulationsInTimeAndSpace-slides.pdf)|[Coalescent simulations in time and space](day3/currat/EmboPopGen_MatCurrat_Afternoon_Practicals_19.pdf)|
 day 4 |||
 day 5 |||
 day 6 |||
