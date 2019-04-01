@@ -42,6 +42,8 @@
 
 Python2.x will be dismissed in 2020. Current relase is Python3.x. Read more about [current Python release](https://wiki.python.org/moin/Python2orPython3)
 
+The name Python was inspired by the [Monty Python](http://www.montypython.com/python_The_Pythons/14) comedy series. 
+
 
 | | |
 |----|----|
