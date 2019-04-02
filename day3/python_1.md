@@ -82,3 +82,10 @@ We will now go through the SC Python lessons that can be found [here](http://swc
 |time | https://docs.python.org/3.7/library/time.html | 
 |matplotlib | https://matplotlib.org/ | 
 
+#### Objectives of today's lesson 
+
+- Learn about libraries 
+- `import` libraries and use the functions in the library 
+- Learn about variables
+- Read tabular data from a file into a program and access slices of data 
+- Plot simple graphs from data
