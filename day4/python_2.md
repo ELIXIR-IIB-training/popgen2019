@@ -6,7 +6,7 @@ Also today we will use the [Software Carpentry lessons](https://software-carpent
 We will go through the SC Python lessons that can be found [here](http://swcarpentry.github.io/python-novice-inflammation/) using the data we downloaded yesterday 
 
 
-In particular we will use material from the lessons 
+In particular we will use material from the lessons: 
 
 - [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/index.html)
 
