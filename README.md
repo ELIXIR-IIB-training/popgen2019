@@ -66,7 +66,7 @@ day 4am |[ClusteringAlgorithms](day4/EMBOProcida_ClusteringAlgorithmsLecture.pdf
 day 4pm |[HapBasedDemography](day4/EMBOProcida_HapBasedDemographyLecture.pdf)|[HapBasedDemographyPractical](day4/EMBOProcida_HapBasedDemographyPractical.pdf) - [Python2](day4/python_2.md)| 
 day 5am |[Simple Relationships](day5/2019%20Naples%20Simple%20relationships.pdf)|[Practical1](day5/Manica_practical_1.pdf)|
 day 5pm |[Complex Relationships](day5/2019%20Naples%20Complex%20relationships.pdf)|[Practical2](day5/Manica_practical_2.pdf)|
-day 6 |[Natural Selection](http://popgen.dk/albrecht/EMBO2019)||
+day 6 |[Natural Selection](http://popgen.dk/albrecht/EMBO2019)|[Manica_practical_2](day5/Manica_practical_2.pdf)|
 day 7 |||
 day 8 |||
 
