@@ -65,7 +65,7 @@ day 3pm |[Coalescent simulations in time and space](day3/currat/MatCurrat_PopGen
 day 4am |[ClusteringAlgorithms](day4/EMBOProcida_ClusteringAlgorithmsLecture.pdf)|[ClusteringAlgorithmsPractical](day4/EMBOProcida_ClusteringAlgorithmsPractical.pdf)|
 day 4pm |[HapBasedDemography](day4/EMBOProcida_HapBasedDemographyLecture.pdf)|[HapBasedDemographyPractical](day4/EMBOProcida_HapBasedDemographyPractical.pdf) - [Python2](day4/python_2.md)| 
 day 5 |||
-day 6 |||
+day 6 |[Natural Selection](http://popgen.dk/albrecht/EMBO2019)||
 day 7 |||
 
 
