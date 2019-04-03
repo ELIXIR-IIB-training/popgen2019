@@ -47,7 +47,6 @@ scp username@elixirschool.recas.ba.infn.it:/home/username/myfiletotransfer.exten
 in alternative download and use [cyberduck](https://cyberduck.io/)
 
 #### I have a PC
-Windows
 
 For window user we recommend using MobaXterm [Download the program here](http://mobaxterm.mobatek.net/download-home-edition.html)
 
