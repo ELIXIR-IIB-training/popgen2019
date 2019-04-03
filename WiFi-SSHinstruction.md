@@ -47,8 +47,14 @@ scp username@elixirschool.recas.ba.infn.it:/home/username/myfiletotransfer.exten
 in alternative download and use [cyberduck](https://cyberduck.io/)
 
 #### I have a PC
-download and use [winscp](https://winscp.net/eng/download.php) and follow instructions 
+Windows
 
+For window user we recommend using MobaXterm [Download the program here](http://mobaxterm.mobatek.net/download-home-edition.html)
+
+- choose Portable edition
+- unzip the file
+- open and run the 'exe' file.
+- a press start a new session. Enter server, login and password
 
 
 ## Open pdfs on the INFN machine
