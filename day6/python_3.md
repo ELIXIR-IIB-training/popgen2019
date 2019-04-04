@@ -12,6 +12,8 @@ In particular we will use material from the lessons:
 
 - [Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/index.html)
 
+- [Reading Tabular Data into DataFrames](http://swcarpentry.github.io/python-novice-gapminder/07-reading-tabular/index.html) (only part of this)
+
 #### Objectives of today's lesson 
 - Make conditional statements 
 - Use boolean data type (True, False) 
