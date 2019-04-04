@@ -13,10 +13,10 @@ In particular we will use material from the lessons:
 - [Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists/index.html)
 
 #### Objectives of today's lesson 
-- Learn to do the same operations many times using loops 
-- Learn about lists 
-- Manipulate objects in lists to change values, add elements, order  
-- Create and manipulate nested lists
+- Make conditional statements 
+- Lean to write and debug functions 
+- Understand why to use single-purpose functions in a programme 
+
 
 
 #### Links to modules used during lessons 
