@@ -17,3 +17,16 @@ In particular we will use material from the lessons:
 - Learn about lists 
 - Manipulate objects in lists to change values, add elements, order  
 - Create and manipulate nested lists
+- Import files with Pandas
+
+
+#### Links to modules used during lessons 
+| | |
+|----|----|
+|numpy |http://www.numpy.org/ |
+|pandas| https://pandas.pydata.org/| 
+|matplotlib | https://matplotlib.org/ | 
+
+| <img src="../img/pandas.jpg" alt="drawing" width="400"/>  |
+|:--:| 
+| Left: Red Panda. Right: Panda| 
