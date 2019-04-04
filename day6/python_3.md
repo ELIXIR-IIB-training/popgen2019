@@ -29,6 +29,6 @@ In particular we will use material from the lessons:
 |pandas| https://pandas.pydata.org/| 
 |matplotlib | https://matplotlib.org/ | 
 
-| <img src="../img/pandas.jpg" alt="drawing" width="400"/>  |
+| <img src="../img/pandas.jpg" alt="drawing" width="500"/>  |
 |:--:| 
-| Left: Red Panda. Right: Panda| 
+| *Left:* Red Panda. *Right:* Panda| 
