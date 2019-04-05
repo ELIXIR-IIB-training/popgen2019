@@ -88,3 +88,32 @@ They were destroyed by pyroclastic flows during the massive eruption of Vesuvius
 Go to the central train station at Piazza Garibaldi. You'll find the Circumvesuviana (the train system that connects the Napoli and the towns and cities in the region around Vesuvius) on the lower level of the station. Buy tickets (about 3 euro each way) and take the Circumvesuviana to Pompei _Scavi_. Note that other regional trains go to the modern city of Pompei but you will need to walk about 25 minutes from that station to the archaeological site while the station Pompei Scavi is just a few minutes from the entrance to the park. A single cafeteria serves the site, so you may want to bring snacks. It can be hot and there is virtually no shade, so dress accordingly. Pompei is a vast ruin, and a walk through most of it should take at least three hours.
 
 Ercolano lies on the same train line as Pompei, but is closer to Napoli. To get there, leave the Circumvesuviana at Ercolano Scavi, and walk down the hill towards the sea for about ten minutes. Ercolano is much smaller than Pompei, but what it lacks in size it makes up in the quality of its preservation. It is possible to visit both sites in one day, but you will probably want to start early.
+
+
+##  Naples - city center 
+This is a list of places that might be interesting. It is not comprehensive and reflects our personal suggestions :) 
+
+
+
+ | Place  | address | map | description  |
+ | --- | ---| ---| --- |
+ | OAK Napoli Wine And Craft Beer | Vico Quercia, 10, 80134 Napoli NA | https://goo.gl/maps/gorjLaBWn6B2 | craft beer, very pleasant  | 
+ | Il Birraiuolo - Craft Beer Bar | Via Vincenzo Bellini, 48, 80135 Napoli NA | https://goo.gl/maps/2aJbcmvdQN12 | craft beer  | 
+ | Ecomesarà | Via Santa Chiara, 49, 80134 Napoli NA | https://goo.gl/maps/vgKinko8qrC2 | lunch or dinner, fancy, fusion  | 
+ | Vitto Pitagorico | Piazza Museo, 15, 80135 Napoli NA | https://goo.gl/maps/C9cRw7hpMmo | vegetarian, vegan | 
+ | Un Sorriso Integrale Amico Bio | Vico, Via S. Pietro a Maiella, 6, 80138 Napoli NA | https://goo.gl/maps/z1MY9Lz4iZ72 | vegetarian, vegan | 
+ | Gay-Odin | Via Benedetto Croce, 61, 80134 Napoli NA | https://goo.gl/maps/yN6X4aa68fm | chocolate, ice cream  | 
+ | Di Matteo | Via dei Tribunali, 94, 80138 Napoli NA | https://goo.gl/maps/QEGzfnaQAi12 | pizza, one of the best  | 
+ | Palazzo Petrucci Pizzeria | Piazza S. Domenico Maggiore, 5/6/7, 80134 Napoli NA | https://goo.gl/maps/tEewLhjBXkK2 | pizza, great location, amazing pizza, fancy  | 
+ | Perditempo Sas | Via S. Pietro a Maiella, 8, 80138 Napoli NA | https://goo.gl/maps/maAaCeWbLvw | night club  | 
+ | Scagliola / Nicola | Via San Pietro A Maiella 15, 80138 Napoli NA | https://goo.gl/maps/RwebiQbcgFT2 | wine store, great collection of wine and rum  | 
+ | Pizze Fritte da Gennaro " ncopp' e chianche" | Via Giuseppe Simonelli, 58, 80134 Napoli NA | https://goo.gl/maps/LgQGagbBg322 | pizza fritta, unbelivable, you will cry after eating  | 
+ | Mexico | Piazza Dante, 86, 80135 Napoli NA | https://goo.gl/maps/EHxaGbCqGno | caffe, one of the best  | 
+ | Libreria Berisio | Via Port'Alba, 28, 80134 Napoli NA | https://goo.gl/maps/MhNEYqooytM2 | aperitivo, and books, of course  | 
+ | Piazza Bellini | 80138 Naples, Metropolitan City of Naples | https://goo.gl/maps/KDnxS5zuMWu | piazza | 
+ | Gesù Nuovo Square | Piazza del Gesù Nuovo, 2, 80134 Napoli NA | https://goo.gl/maps/kw5SWD8d5ex | piazza | 
+ | Mennella Il Gelato | Via Toledo, 80134 Napoli NA | https://goo.gl/maps/qhxahLqe8U42 | ice-cream, one of the best | 
+ | Piazza S. Domenico Maggiore | 80134 Naples, Metropolitan City of Naples | https://goo.gl/maps/6yuHboTPZV12 | piazza | 
+ | Naples National Archaeological Museum | Piazza Museo, 19, 80135 Napoli NA | https://goo.gl/maps/W6vRHYZE9GS2 | museum, vast collection of material form Pompei  | 
+ | Napoli Sotterranea | Piazza San Gaetano, 68, 80138 Napoli NA | https://goo.gl/maps/aZ675pLSVd72 | underground city  | 
+ | Purgatorio ad Arco | Via dei Tribunali, 39, 80138 Napoli NA | https://goo.gl/maps/yBT82B3ET2v | underground church, cult of "anime pezzentelle"  | 
