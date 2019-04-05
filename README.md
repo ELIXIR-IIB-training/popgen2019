@@ -67,7 +67,7 @@ day 4pm |[HapBasedDemography](day4/EMBOProcida_HapBasedDemographyLecture.pdf)|[H
 day 5am |[Simple Relationships](day5/2019%20Naples%20Simple%20relationships.pdf)|[Practical1](day5/Manica_practical_1.pdf)|
 day 5pm |[Complex Relationships](day5/2019%20Naples%20Complex%20relationships.pdf)|[Practical2](day5/Manica_practical_2.pdf)|
 day 6 |[Natural Selection](http://popgen.dk/albrecht/EMBO2019)|[Practicals on Natural Selection](http://popgen.dk/albrecht/EMBO2019)|
-day 7 |||
+day 7 |[Intro to ML](day7/chierici_intro_to_ml.pdf) - [Classical ML](day7/chierici_classical_ml.pdf)|[Practical_ML_1 ](day7/chierici_practical_part1.html) - [Practical_ML_2](day7/chierici_practical_part2.html)|
 day 8 |||
 
 
